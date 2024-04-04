@@ -4,4 +4,15 @@
     background-color: #000;
     color: white;
     padding: 20px;
+    align-items: center;
 }
+
+.boxes {
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    background-color: azure;
+}
+#box1 { background-color: blue;}
+#box2 { background-color: blueviolet;}
+#box3 { background-color: beige;}
